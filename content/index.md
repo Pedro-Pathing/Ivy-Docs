@@ -17,7 +17,7 @@ Command-based control flow for FTC like you've never seen before
 ---
 color: neutral
 size: xl
-to: /getting-started
+to: /installation
 trailing-icon: i-lucide-arrow-right
 ---
 Get started
